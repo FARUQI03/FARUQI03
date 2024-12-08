@@ -1,43 +1,55 @@
 ## Hi there 👋
 
-## 💻 Software Engineer
+# 👨‍💻 Ahmad Faruqi - Software Engineer & Athlete
 
-### 🌟 Profile Summary
-A passionate software engineer with a proven track record in project involvement, technical leadership, and legacy codebase maintenance. Adept at designing and implementing efficient solutions while mentoring teams in achieving project goals.
+### 🌟 About Me
+Hi there! I’m Ahmad Faruqi, a **software engineer** based in **Kuala Terengganu, Malaysia**. I thrive on solving complex problems, building scalable solutions, and improving legacy systems. When I’m not coding, you’ll find me breaking a sweat as an **athlete** or exploring new technologies to expand my expertise. 🚀
 
 ---
 
-### 📝 Key Details
+## 🔑 Key Details
 
 | **Category**              | **Details**                                                                            |
 |---------------------------|----------------------------------------------------------------------------------------|
-| **Name**                  | Ahmad Faruqi                                                                           |
-| **Location**              | Kuala Terengganu, Malaysia                                                            |
-| **Email**                 | [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)                            |
-| **Profession**            | Athlete and Software Engineer                                                         |
-| **Technical Role**        | Technical Lead for University Projects                                                |
-| **Skills**                | Software Development, Team Leadership, Legacy Code Maintenance                        |
-| **Key Contributions**     | - Led development teams on academic and professional projects.                        |
-|                           | - Optimized legacy systems for better performance and scalability.                     |
-|                           | - Successfully delivered projects within deadlines while maintaining high code quality.|
+| **🌍 Location**           | Kuala Terengganu, Malaysia                                                            |
+| **📧 Email**              | [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)                            |
+| **🏆 Current Roles**      | Software Engineer, Technical Lead for University Projects                             |
+| **⚡ Focus Areas**        | Legacy Code Maintenance, Project Involvement, Team Leadership                         |
 
 ---
 
-### 🛠️ Technical Expertise
-| **Skill**                 | **Description**                                                                        |
+## 🚀 Skills & Expertise
+
+| **Skill Set**             | **Proficiency**                                                                        |
 |---------------------------|----------------------------------------------------------------------------------------|
-| **Programming Languages** | Proficient in Python, JavaScript, C++, and SQL                                         |
-| **Frameworks & Tools**    | Experienced with React, Node.js, Django, and Git                                       |
-| **Database Management**   | Skilled in MySQL, PostgreSQL, and legacy database systems                              |
-| **Development Practices** | Agile Development, Code Reviews, Continuous Integration & Deployment (CI/CD)          |
+| **Programming Languages** | Python, JavaScript, C++, SQL                                                          |
+| **Frameworks & Tools**    | React, Node.js, Django, Git                                                           |
+| **Databases**             | MySQL, PostgreSQL, Legacy Database Systems                                            |
+| **Soft Skills**           | Team Leadership, Agile Development, Code Reviews                                      |
+| **Special Strengths**     | Optimizing Legacy Codebases, Leading Cross-Functional Teams, Delivering Scalable Solutions |
 
 ---
 
-### 🎯 Objectives
-I aim to continue honing my skills as a software engineer while exploring innovative ways to solve challenging problems. My ultimate goal is to contribute to impactful projects that benefit both users and stakeholders.
+## 🎯 Highlights
+
+- 💼 **Technical Lead for University Projects:**  
+  Successfully guided multiple student teams to design, develop, and deploy innovative solutions, fostering collaboration and technical excellence.
+
+- 🛠 **Legacy Codebase Maintenance:**  
+  Improved existing systems’ performance and stability, ensuring seamless functionality and user satisfaction.
+
+- 🌐 **Project Involvement:**  
+  Played a pivotal role in software development projects, focusing on quality, scalability, and timely delivery.
 
 ---
 
-### 📬 Contact
-Feel free to connect with me on [LinkedIn](#) or send me an email at [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com).
+## 🌱 On the Horizon
+I’m always seeking new challenges and opportunities to grow! Whether it’s experimenting with the latest technologies, contributing to open-source projects, or leading innovative initiatives, I’m ready to make an impact.
 
+---
+
+## 📬 Let’s Connect!
+- **📧 Email:** [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)  
+- **💼 LinkedIn:** [Your LinkedIn Profile](#)  
+- **🐙 GitHub:** [Your GitHub Profile](#)  
+- **⚡ Fun Fact:** When I’m not coding, I’m likely on the field, hitting personal fitness goals as a proud gym rat! 💪
