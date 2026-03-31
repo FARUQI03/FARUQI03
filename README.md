@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-# 👨‍💻 Ahmad Faruqi - Software Engineer & Athlete
+# 👨‍💻 Ahmad Faruqi - Web Developer 
 
 ### 🌟 About Me
-Hi there! I’m Ahmad Faruqi, a **software engineer** based in **Kuala Terengganu, Malaysia**. I thrive on solving complex problems, building scalable solutions, and improving legacy systems. When I’m not coding, you’ll find me breaking a sweat as an **athlete** or exploring new technologies to expand my expertise. 🚀
+Hi there! I’m Ahmad Faruqi, a **web developer** based in **Kuala Terengganu, Malaysia**. I thrive on solving complex problems, building scalable solutions, and improving legacy systems. When I’m not coding, you’ll find me breaking a sweat as an **athlete** or exploring new technologies to expand my expertise. 🚀
 
 ---
 
