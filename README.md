@@ -13,8 +13,8 @@ Hi there! I’m Ahmad Faruqi, a Web Developer and IT Specialist based in Kuala T
 |---------------------------|----------------------------------------------------------------------------------------|
 | **🌍 Location**           | Kuala Terengganu, Malaysia                                                            |
 | **📧 Email**              | [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)                            |
-| **🏆 Current Roles**      | Software Engineer, Technical Lead for University Projects                             |
-| **⚡ Focus Areas**        | Legacy Code Maintenance, Project Involvement, Team Leadership                         |
+| **🏆 Current Roles**      | Full-Stack Web Developer, IT Support Specialist|
+| **⚡ Primary Domains**    | E-Commerce Platforms, Legacy System Optimization, Database Management                       |
 
 ---
 
