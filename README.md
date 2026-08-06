@@ -11,35 +11,35 @@ Hi there! I’m Ahmad Faruqi, a Web Developer and IT Specialist based in Kuala T
 
 | **Category**              | **Details**                                                                            |
 |---------------------------|----------------------------------------------------------------------------------------|
-| **🌍 Location**           | Kuala Terengganu, Malaysia                                                            |
+| **🌍 Location**           | Kuala Terengganu, Malaysia                                                             |
 | **📧 Email**              | [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)                            |
-| **🏆 Current Roles**      | Full-Stack Web Developer, IT Support Specialist|
-| **⚡ Primary Domains**    | E-Commerce Platforms, Legacy System Optimization, Database Management                       |
+| **🏆 Current Roles**      | Full-Stack Web Developer, IT Support Specialist                                        |
+| **⚡ Primary Domains**    | E-Commerce Platforms, Legacy System Optimization, Database Management                  |
 
 ---
 
-## 🚀 Skills & Expertise
+## 🚀 Technical Expertise
 
 | **Skill Set**             | **Proficiency**                                                                        |
 |---------------------------|----------------------------------------------------------------------------------------|
-| **Programming Languages** | Python, JavaScript, C++, SQL                                                          |
-| **Frameworks & Tools**    | React, Node.js, Django, Git                                                           |
-| **Databases**             | MySQL, PostgreSQL, Legacy Database Systems                                            |
-| **Soft Skills**           | Team Leadership, Agile Development, Code Reviews                                      |
-| **Special Strengths**     | Optimizing Legacy Codebases, Leading Cross-Functional Teams, Delivering Scalable Solutions |
+| **Frontend**              | Next.js 14, React, HTML5, CSS3, Tailwind CSS                                           |
+| **Backend**               | PHP, Node.js, Python, C++                                                              |
+| **Databases**             | PostgreSQL, MySQL                                                                      |
+| **Tools & Low-Code**      | Git, AppSheet, Canva, Adobe Photoshop, Lightroom                                       |
+| **Soft Skills**           | System Diagnostics, Technical Leadership, Cross-Functional Teamwork                    |
 
 ---
 
-## 🎯 Highlights
+## 🎯 Key Highlights
 
-- 💼 **Technical Lead for University Projects:**  
-  Successfully guided multiple student teams to design, develop, and deploy innovative solutions, fostering collaboration and technical excellence.
+- 💼 **E-Commerce & Platform Maintenance:**  
+ Experienced in resolving backend/frontend bugs, maintaining multi-portal architectures (Customer, Admin, Agent, Warehouse), and handling marketplace integrations.
 
-- 🛠 **Legacy Codebase Maintenance:**  
-  Improved existing systems’ performance and stability, ensuring seamless functionality and user satisfaction.
-
-- 🌐 **Project Involvement:**  
-  Played a pivotal role in software development projects, focusing on quality, scalability, and timely delivery.
+- 🛠 **Legacy System Refactoring:**  
+ Proven track record in optimizing existing codebases to fix UI/UX bugs, repair broken links, and secure database connections for improved system performance.
+ 
+- 🌐 **Technical Leadership:**  
+  Guided student and university project teams to design, develop, and deploy software solutions efficiently.
 
 ---
 
@@ -50,6 +50,6 @@ I’m always seeking new challenges and opportunities to grow! Whether it’s ex
 
 ## 📬 Let’s Connect!
 - **📧 Email:** [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)  
-- **💼 LinkedIn:** [Your LinkedIn Profile](#)  
+- **💼 LinkedIn:** [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/ahmad-faruqi-3a254a368?)  
 - **🐙 GitHub:** [Your GitHub Profile](#)  
 - **⚡ Fun Fact:** When I’m not coding, I’m likely on the field, hitting personal fitness goals as a proud gym rat! 💪
