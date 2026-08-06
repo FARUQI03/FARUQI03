@@ -3,7 +3,7 @@
 # 👨‍💻 Ahmad Faruqi - Web Developer 
 
 ### 🌟 About Me
-Hi there! I’m Ahmad Faruqi, a Web Developer and IT Specialist based in Kuala Terengganu, Malaysia. I specialize in building full-stack applications, managing databases, and keeping complex legacy systems running smoothly. Outside of tech, I'm active in fitness and visual arts—blending technical discipline with creative execution.
+Hi there! I’m Ahmad Faruqi, a Web Developer and IT Specialist based in Kuala Terengganu, Malaysia. I specialize in building full-stack applications, managing databases, and keeping complex legacy systems running smoothly. Outside of tech, I'm active in fitness and visual arts blending technical discipline with creative execution.
 
 ---
 
