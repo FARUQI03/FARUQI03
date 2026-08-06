@@ -51,5 +51,4 @@ I’m always seeking new challenges and opportunities to grow! Whether it’s ex
 ## 📬 Let’s Connect!
 - **📧 Email:** [ahmadfaruqii03@gmail.com](mailto:ahmadfaruqii03@gmail.com)  
 - **💼 LinkedIn:** [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/ahmad-faruqi-3a254a368?)  
-- **🐙 GitHub:** [Your GitHub Profile](#)  
 - **⚡ Fun Fact:** When I’m not coding, I’m likely on the field, hitting personal fitness goals as a proud gym rat! 💪
